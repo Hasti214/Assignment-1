@@ -1,0 +1,132 @@
+
+img{
+   width: 80%;
+   margin: 0px auto;
+   display: block;
+}
+/* given style to name class of div attribute. */
+.name{
+   display: flex;
+   text-align: center;
+   justify-content: space-between;
+   margin-right: 400px;
+   margin-left: 400px;
+   font-family: 'Poppins', sans-serif;
+   color: black;
+   line-height: 0.8px;
+   position: relative;
+   bottom: 475px;
+   left: 247px;
+}
+h1{
+   font-size: 1.1em;
+   font-weight: bolder;
+}
+p{
+   font-size: 1.3em;
+}
+/* given style to true class of div attribute. */
+.true{
+   display: flex;
+   text-align: center;
+   justify-content: center;
+   font-family: 'Roboto', sans-serif;
+   color: #0E5A81 ;
+   font-size: 14px;
+   font-weight: 600;
+   word-spacing: 2px;
+   position: relative;
+   bottom: 465px;
+   left: 278px;
+}
+/* given style to soon class of div attribute. */
+.soon{
+   display: flex;
+   text-align: center;
+   justify-content: center;
+   font-family: 'Lato', sans-serif;
+   color: #ffffff;
+   font-size: 78px;
+   position: relative;
+   bottom: 565px;
+   left: 185px;
+}
+/* given style to origin class */
+.origin{
+   display: flex;
+   text-align: center;
+   justify-content: center;
+   font-family: 'Lato', sans-serif;
+   color: #ffffff;
+   font-size: 80px;
+   font-weight: bold;
+   position: relative;
+   bottom: 806px;
+   left: 296px;
+}
+/* given style to cinema class */
+.cinema{
+   display: flex;
+   text-align: center;
+   justify-content: center;
+   font-family: 'Poppins', sans-serif;
+   color: #ffffff;
+   font-size: 11.1px;
+   letter-spacing: 1.9px;
+   word-spacing: 0.1px;
+   position: relative;
+   bottom: 910px;
+   left: 285px;
+}
+/* given style to date class */
+.date{
+   display: flex;
+   text-align: center;
+   justify-content: center;
+   font-family: 'Karla', sans-serif;
+   font-size: 28px;
+   font-weight: bold;
+   letter-spacing: 1.5px;
+   color: #ffffff;
+   position: relative;
+   bottom: 965px;
+   left: 291px;
+}
+/* given style to film class */
+.film{
+   display: flex;
+   text-align: center;
+   justify-content: center;
+   font-family: 'Fira Sans', sans-serif;
+   width: 90px;
+   height: 1px;
+   font-weight: bold;
+   color: #ffffff;
+   position: relative;
+   bottom: 987px;
+   left: 132px;
+}
+/* given style to all class */
+.all{
+   display: flex;
+   text-align: center;
+   justify-content: center;
+   font-family: 'Poppins', sans-serif;
+   font-size: 7px;
+   color: #ffffff;
+   position: relative;
+   bottom: 965px;
+   left: -26px;
+}
+/* given style links in html. */
+nav > menu > li {
+   list-style: none;
+   padding: 0px 15px;
+   position: relative;
+   bottom: 1524px;
+   right: 50px;
+}
+nav > menu > li > a{
+   color: #0e0e0e;
+   display: flex;
+}
